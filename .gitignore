@@ -2,10 +2,14 @@
 venv/
 __pycache__/
 *.pyc
+*.pyo
 db.sqlite3
 .env
 
 # Node
+frontend/node_modules/
 node_modules/
 dist/
+frontend/dist/
 .DS_Store
+*.log
