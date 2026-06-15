@@ -1,0 +1,145 @@
+[
+{
+  "model": "events.event",
+  "pk": 1,
+  "fields": {
+    "title": "International Food & Music Festival",
+    "description": "Celebrate diverse cultures with authentic international cuisine and live performances by artists from around the world. Perfect weekend plan for family and friends.",
+    "date": "2026-08-19T10:00:00Z",
+    "location": "Kannur",
+    "created_at": "2026-06-14T19:04:35.606Z"
+  }
+},
+{
+  "model": "events.event",
+  "pk": 2,
+  "fields": {
+    "title": "Modern Art Exhibition",
+    "description": "Explore a collection of contemporary paintings, sculptures, and interactive digital art pieces from emerging global artists.",
+    "date": "2026-07-22T19:00:00Z",
+    "location": "Malappuram",
+    "created_at": "2026-06-14T19:06:28.916Z"
+  }
+},
+{
+  "model": "events.event",
+  "pk": 3,
+  "fields": {
+    "title": "Python for Data Science Bootcamp",
+    "description": "An intensive weekend bootcamp covering NumPy, Pandas, Matplotlib, and Scikit-Learn. Learn to build your first machine learning models and analyze real-world datasets.",
+    "date": "2026-07-31T18:00:00Z",
+    "location": "Kozhikode",
+    "created_at": "2026-06-14T19:07:19.891Z"
+  }
+},
+{
+  "model": "events.event",
+  "pk": 4,
+  "fields": {
+    "title": "Tech & AI Hackathon 2026",
+    "description": "A 48-hour hackathon bringing together developer teams to build cutting-edge solutions using generative AI and machine learning tools.",
+    "date": "2026-09-15T09:00:00Z",
+    "location": "Kozhikode",
+    "created_at": "2026-06-15T05:12:06.843Z"
+  }
+},
+{
+  "model": "events.event",
+  "pk": 5,
+  "fields": {
+    "title": "Summer Rock Fest",
+    "description": "An outdoor music festival featuring the best independent rock bands, food trucks, and art stalls.",
+    "date": "2026-08-05T17:00:00Z",
+    "location": "Ernakulam",
+    "created_at": "2026-06-15T05:12:06.853Z"
+  }
+},
+{
+  "model": "events.event",
+  "pk": 6,
+  "fields": {
+    "title": "Nature Photography Workshop",
+    "description": "Learn the art of landscape and wildlife photography from professional photographers in the scenic hills of Munnar.",
+    "date": "2026-07-28T06:00:00Z",
+    "location": "Munnar",
+    "created_at": "2026-06-15T05:12:06.859Z"
+  }
+},
+{
+  "model": "events.event",
+  "pk": 7,
+  "fields": {
+    "title": "Kerala Startup Networking Meet",
+    "description": "Connect with founders, investors, and startup mentors to share ideas and explore funding opportunities.",
+    "date": "2026-08-12T18:00:00Z",
+    "location": "Thiruvananthapuram",
+    "created_at": "2026-06-15T05:12:06.865Z"
+  }
+},
+{
+  "model": "events.event",
+  "pk": 8,
+  "fields": {
+    "title": "Green Run Half Marathon",
+    "description": "Join the annual charity run through beautiful tea estates to raise awareness about forest conservation.",
+    "date": "2026-09-20T05:30:00Z",
+    "location": "Wayanad",
+    "created_at": "2026-06-15T05:12:06.870Z"
+  }
+},
+{
+  "model": "events.event",
+  "pk": 9,
+  "fields": {
+    "title": "Annual Book Fair & Lit Fest",
+    "description": "A week-long celebration of literature featuring book launches, author interactions, panel discussions, and writing workshops.",
+    "date": "2026-10-02T10:00:00Z",
+    "location": "Thrissur",
+    "created_at": "2026-06-15T05:12:06.873Z"
+  }
+},
+{
+  "model": "events.event",
+  "pk": 10,
+  "fields": {
+    "title": "Stand-up Comedy Night",
+    "description": "Get ready for a night of laughter with some of the country's finest stand-up comedians performing live.",
+    "date": "2026-07-18T19:30:00Z",
+    "location": "Kochi",
+    "created_at": "2026-06-15T05:12:06.877Z"
+  }
+},
+{
+  "model": "events.event",
+  "pk": 11,
+  "fields": {
+    "title": "Malabar Cookery Masterclass",
+    "description": "Discover the secrets of traditional Malabar cuisine, from perfect biryanis to exquisite seafood dishes, guided by expert chefs.",
+    "date": "2026-08-25T11:00:00Z",
+    "location": "Kozhikode",
+    "created_at": "2026-06-15T05:12:06.884Z"
+  }
+},
+{
+  "model": "events.event",
+  "pk": 12,
+  "fields": {
+    "title": "React & Next.js Masterclass",
+    "description": "An intensive hands-on workshop covering advanced React topics, Server Components, SSR, and deploying high-performance applications with Next.js.",
+    "date": "2026-08-08T09:30:00Z",
+    "location": "Bangalore",
+    "created_at": "2026-06-15T05:12:06.893Z"
+  }
+},
+{
+  "model": "events.event",
+  "pk": 13,
+  "fields": {
+    "title": "Mindfulness & Yoga Weekend",
+    "description": "Rejuvenate your mind and body with sunrise yoga, guided meditation sessions, and organic vegan dining by the cliffs of Varkala.",
+    "date": "2026-07-10T07:00:00Z",
+    "location": "Varkala",
+    "created_at": "2026-06-15T05:12:06.898Z"
+  }
+}
+]
